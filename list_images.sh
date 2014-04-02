@@ -1,1 +1,1 @@
-ls *.bmp > ./list.txt
+ls ./Images/Negatives/*.bmp > ./negatives.txt
