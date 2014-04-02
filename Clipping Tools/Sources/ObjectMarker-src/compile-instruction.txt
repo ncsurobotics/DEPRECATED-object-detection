@@ -1,0 +1,1 @@
+g++ objectmarker.cpp -o objectmarker `pkg-config --cflags --libs opencv`
