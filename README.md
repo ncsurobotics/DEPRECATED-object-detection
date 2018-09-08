@@ -1,3 +1,6 @@
+# DEPRECATED
+This repository contains deprecated code.
+
 object detection
 ============
 
